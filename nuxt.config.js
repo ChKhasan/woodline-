@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "wood-site",
+    title: "Woodline",
     target: "server",
     htmlAttrs: {
       lang: "en",
